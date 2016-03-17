@@ -1,0 +1,28 @@
+{
+  "name": "mis-cervezas-daw2d-apf",
+  "version": "1.0.0",
+  "description": "Librería para consultar cervezas",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroPF/nodeJuanda.git"
+  },
+  "keywords": [
+    "cerveza",
+    "cervezas",
+    "librería",
+    "cerveza"
+  ],
+  "author": "alejandropf <alejandropenaflorentin@gmail.com> (https://www.npmjs.com/~alejandropf)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlejandroPF/nodeJuanda/issues"
+  },
+  "homepage": "https://github.com/AlejandroPF/nodeJuanda#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
